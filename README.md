@@ -8,6 +8,9 @@ The project aims to get insight into opening a bike-sharing business in Des Moin
 
 To understand the bike-sharing business in New York City, many interactive visualizations are created in Tableau that can be filtered based on multiple criteria, such as customer type, trip duration, and gender. Two stories are designed to combine those analyses. The first story highlight the overall trend for all users, and the second story provides a more detailed analysis breakdown by gender. 
 
+[link to dashboard](https://public.tableau.com/app/profile/shrouq.alelaumi4532/viz/Bikesharing_16724314717240/BikeSharingAnalysis?publish=yes "link to dashboard")
+
+
 The customer type breakdown analysis of Citi Bike data shows that most bike-sharing users are subscribers (long-term users). This indicates that the bike riding business is a popular program in New York City, as shown in the image below.
 
 <img width="1022" alt="Story1" src="https://user-images.githubusercontent.com/48078471/209852854-faf7ab1b-058d-4645-a684-30bf41d4a0e2.png">
